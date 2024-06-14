@@ -136,6 +136,7 @@
 * [ASP.NET Boilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) -  ABP是一个通用的WEB应用程序框架和项目模板。
 * [Abp vNext](https://github.com/abpframework/abp) - 该项目是ABP Web应用程序框架的下一代。
 * [AsyncEx](https://github.com/StephenCleary/AsyncEx) -  async / await的帮助程序库。
+* [AsyncMonolith](https://github.com/Timmoth/AsyncMonolith) - 在 .NET 中进行异步消息传递。
 * [Aeron.NET](https://github.com/AdaptiveConsulting/Aeron.NET) - 高效可靠的UDP单播，UDP组播和IPC消息传输。
 * [akka.net](https://github.com/akkadotnet/akka.net) - Akka是一个基于scala语言的Actor模型库，旨在构建一套高并发、分布式、自动容错、消息驱动应用的工具集。
 * [Aggregates.NET](https://github.com/volak/Aggregates.NET) -  Aggregates.NET是一个框架，可以帮助开发人员将优秀的NServiceBus和EventStore库集成在一起。
